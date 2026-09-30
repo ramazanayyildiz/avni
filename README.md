@@ -11,6 +11,21 @@ Avni is a macOS companion for YouTube Music with a classic skinnable player, ori
 
 [Visit the Avni website](https://ramazanayyildiz.github.io/avni-site/)
 
+## Download and install
+
+Public installers will be available from [GitHub Releases](https://github.com/ramazanayyildiz/avni/releases). **No public DMG has been uploaded yet.** Avni's first beta targets Apple Silicon Macs running macOS 14 (Sonoma) or later. Homebrew installation is not available yet.
+
+Once a release is published:
+
+1. Download `Avni_<version>_aarch64.dmg` from the release's **Assets** section.
+2. Open it and drag **Avni.app** into **Applications**.
+3. Open Avni from Applications.
+4. Choose **Account → Open YouTube Music** and sign in.
+
+## Follow development
+
+[Follow @ayyi1diz on X](https://x.com/ayyi1diz) for project updates.
+
 The approved identity combines an amber pixel A/play symbol, ivory wordmark and graphite app icon. Original assets were created for Avni with imagegen and are distributed here under the [MIT License](LICENSE). The selected application source license is also MIT; third-party software and assets retain their own licenses.
 
 Avni is independent of Google and YouTube and is not affiliated with or endorsed by either. YouTube Music is a trademark of Google LLC. No historical third-party Winamp skin collection is bundled.
