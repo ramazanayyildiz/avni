@@ -11,6 +11,14 @@ Avni is a macOS companion for YouTube Music with a classic skinnable player, ori
 
 [Visit the Avni website](https://ramazanayyildiz.github.io/avni-site/)
 
+## Original skins
+
+| Graphite LCD | Silver Blue | Amber Terminal |
+| --- | --- | --- |
+| ![Graphite LCD skin artwork](assets/skins/graphite.jpg) | ![Silver Blue skin artwork](assets/skins/silver.jpg) | ![Amber Terminal skin artwork](assets/skins/amber.jpg) |
+
+Three original built-in skins, with 1× and 2× player sizes. These are static artwork previews from the concept site, with fictional track information; they are not live playback screenshots. Avni also supports local import of compatible `.wsz` skins.
+
 ## Download and install
 
 Public installers will be available from [GitHub Releases](https://github.com/ramazanayyildiz/avni/releases). **No public DMG has been uploaded yet.** Avni's first beta targets Apple Silicon Macs running macOS 14 (Sonoma) or later. Homebrew installation is not available yet.
